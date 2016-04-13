@@ -1,0 +1,18 @@
+{
+  "name": "electron-detect-loadurl",
+  "version": "0.0.0",
+  "description": "",
+  "repository": "parro-it/electron-detect-loadurl",
+  "license": "MIT",
+  "author": "parro-it",
+  "scripts": {
+    "test": "ava && xo"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=5"
+  },
+  "files": [
+    "index.js"
+  ]
+}
